@@ -1,0 +1,16 @@
+# node modules
+node_modules/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# MacOS
+.DS_Store
+
+# IDE config
+.vscode/
+.idea/
+
+# Logs
+*.log
